@@ -1,6 +1,6 @@
 | **Azure<sup>&reg;</sup>&nbsp;DevOps** | **CircleCI<sup>&reg;</sup>** | **GitHub<sup>&reg;</sup>&nbsp;Actions** |  **GitLab<sup>&reg;</sup>&nbsp;CI/CD** | 
 |:---------------------------|:-----------------:|:----------------------------:|:--------------------------:|
-| [![MATLAB](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml) <br><br> |
+||| [![MATLAB](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml) <br><br> |
 
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
@@ -69,7 +69,7 @@ Badges look really great, but they're not always easy to set up. Take a look at 
 
 | **GitHub&nbsp;Actions** |  |
 |:-----------------------------|:-|
-| Badge | [![MATLAB](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml) |
+| Badge | [![MATLAB](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml) |
 | Badge Code | \[\!\[MATLAB](https[]()://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https[]()://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml) |
 | Badge Help | [GitHub Actions documentation for setting up badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge) |
 
