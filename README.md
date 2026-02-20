@@ -1,8 +1,6 @@
 | **Azure<sup>&reg;</sup>&nbsp;DevOps** | **CircleCI<sup>&reg;</sup>** | **GitHub<sup>&reg;</sup>&nbsp;Actions** |  **GitLab<sup>&reg;</sup>&nbsp;CI/CD** | 
 |:---------------------------|:-----------------:|:----------------------------:|:--------------------------:|
-| [![MATLAB](https://github.com/tibitak/ci-configuration-examples/actions/workflows/
-ci.yml/badge.svg)](https://github.com/tibitak/ci-configuration-examples/actions/
-workflows/ci.yml) <br><br> |
+| [![MATLAB](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/tibitak/ci-configuration-examples/actions/workflows/ci.yml) <br><br> |
 
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
