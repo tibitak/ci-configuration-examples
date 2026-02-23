@@ -34,7 +34,7 @@ weekdayNames = [ ...
     "Monday"
     "Tuesday"
     "Wednesday"
-    "Thrusday"
+    "Thursday"
     "Friday"
     "Saturday"];
 name = weekdayNames(dow);
